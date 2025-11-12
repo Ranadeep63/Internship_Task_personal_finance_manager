@@ -1,0 +1,10 @@
+[
+    {
+        "Transaction ID": 1,
+        "Date": "2025-11-12 15:34:47",
+        "Category": "Salary",
+        "Amount": 50000.0,
+        "Type": "income",
+        "Description": "November salary"
+    }
+]
