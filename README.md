@@ -6,6 +6,7 @@ Built as part of my Developers Arena Data Science Internship (Month 1 – Python
 Features
 
 ✅ Multi-user login & registration (each user has separate data file)
+
 ✅ Secure password hashing (SHA256)
 ✅ Add, view, and delete transactions
 ✅ Persistent data storage using JSON
